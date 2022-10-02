@@ -1,3 +1,5 @@
+# Source: https://community.cloudflare.com/t/top-50-user-agents-to-block/222594/5 (03 October 2022)
+
 appinsights
 semrushbot
 ahrefsbot
